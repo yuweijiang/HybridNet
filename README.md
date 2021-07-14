@@ -1,1 +1,3 @@
-# HybridNet
+# Hybrid Reasoning Network for Video-based Commonsense Captioning (ACM MM 2021)
+
+The code will be released soon...
