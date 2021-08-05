@@ -20,7 +20,7 @@ V2C dataset in [V2C_annotations.zip](https://drive.google.com/file/d/1qt0JsOAqBs
     └── v2cqa_v1_train.json                       # for V2C QA, consisting captions, CMS, and CMS related questions/answers.
 
 ## Video Features
-We use the pre-trained models including ResNet152, SoundNet and I3D  to extract the appearance feature, audio feature and motion feature, respectively. Video Features data can be obtained in the [link]().
+We use the pre-trained models including ResNet152, SoundNet and I3D  to extract the appearance feature, audio feature and motion feature, respectively. Video Features data can be obtained in the [link](https://drive.google.com/drive/folders/1CIY9eLeYyuW36O1jkBy5Usbjj2Tgui0B?usp=sharing).
 
 ## Training and Evaluation
 * Enviroment: This implementation was complemented on PyTorch-1.8.1, there was reported some errors if newer version PyToch is usednad  we will work on a updation for that later.
@@ -50,7 +50,7 @@ python test_cap2cms.py  --cms int --batch_size 64 --num_layer 6 --dim_head 64 --
 ```
 
 ## Model Zoo
-Download [MODEL_ZOO.zip]() for the trained captioning models for intention, effects and attributes generations.
+Download [MODEL_ZOO.zip](https://drive.google.com/file/d/1msPnbWAqgB9hcEWf1kqY2apaRPNE5AJu/view?usp=sharing) for the trained captioning models for intention, effects and attributes generations.
 
 
 ## Citations
