@@ -50,7 +50,7 @@ python test_cap2cms.py  --cms int --batch_size 64 --num_layer 6 --dim_head 64 --
 ```
 
 ## Model Zoo
-Download [MODEL_ZOO.zip](https://drive.google.com/file/d/1msPnbWAqgB9hcEWf1kqY2apaRPNE5AJu/view?usp=sharing) for the trained captioning models for intention, effects and attributes generations.
+Download [MODEL_ZOO.zip](https://drive.google.com/file/d/1msPnbWAqgB9hcEWf1kqY2apaRPNE5AJu/view?usp=sharing) for our trained captioning models for intention, effects and attributes generations.
 
 
 ## Citations
