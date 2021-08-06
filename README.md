@@ -1,7 +1,7 @@
 # Hybrid Reasoning Network for Video-based Commonsense Captioning
 
 ## Introduction
-This repository contains source code for our **ACM MM 2021**: [Hybrid Reasoning Network for Video-based Commonsense Captioning]().
+This repository contains source code for our **ACM MM 2021**: [Hybrid Reasoning Network for Video-based Commonsense Captioning](https://arxiv.org/abs/2108.02365).
 
 This repo should be ready to replicate our results from the paper. If you have any issues with getting it set up though, please file a github issue. Still, the paper is just an arxiv version, so there might be more updates in the future.
 
@@ -56,8 +56,13 @@ Download [MODEL_ZOO.zip](https://drive.google.com/file/d/1msPnbWAqgB9hcEWf1kqY2a
 ## Citations
 Please consider citing this paper if you find it helpful:
 ```
-@inproceedings{
-    title = "Hybrid Reasoning Network for Video-based Commonsense Captioning"
+@inproceedings{yu2021hybrid,
+      title={Hybrid Reasoning Network for Video-based Commonsense Captioning}, 
+      author={Weijiang Yu and Jian Liang and Lei Ji and Lu Li and Yuejian Fang and Nong Xiao and Nan Duan},
+      year={2021},
+      eprint={2108.02365},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
