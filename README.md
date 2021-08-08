@@ -59,10 +59,8 @@ Please consider citing this paper if you find it helpful:
 @inproceedings{yu2021hybrid,
       title={Hybrid Reasoning Network for Video-based Commonsense Captioning}, 
       author={Weijiang Yu and Jian Liang and Lei Ji and Lu Li and Yuejian Fang and Nong Xiao and Nan Duan},
-      year={2021},
-      eprint={2108.02365},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+      year={2021}
 }
 ```
 
